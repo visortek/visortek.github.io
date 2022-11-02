@@ -9,3 +9,7 @@
     background: linear-gradient(blue,purple,red, orange);
 }
 
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
