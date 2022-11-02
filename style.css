@@ -22,3 +22,8 @@ body{
    position: relative;
    left: 12.5rem;
 }
+
+#text {
+    position: relative;
+    right: 12rem;
+}
