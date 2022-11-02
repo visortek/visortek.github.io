@@ -1,0 +1,11 @@
+#instagram {
+    background-color: white;
+    color: purple;
+    transition: 0.10s;
+    border: 1px solid purple;
+}
+
+#instagram:hover {
+    background: linear-gradient(blue,purple,red, orange);
+}
+
