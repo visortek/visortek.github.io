@@ -11,5 +11,14 @@
 
 body{
     font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(to bottom,rgb(0, 140, 255), #80FFDB);
 }
 
+#card{
+    background-color: aliceblue;
+}
+
+#second-container{
+   position: relative;
+   left: 12.5rem;
+}
