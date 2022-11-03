@@ -12,20 +12,23 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     /* background: radial-gradient(ellipse 50% 400px, #80FFDB 50%, #5390D9 80%, #5E60CE); */
-    background-image: url("visortek.jpeg");
-    background-repeat:no-repeat;
+    /* background-image: url("visortek.jpeg"); */
+    /* background-repeat:no-repeat;
     background-position-x:center;
-    background-position-y:center
+    background-position-y:center */
  
 }
 
+/*
 #capa {
      width: 100%;
      height: 100vh;
      /* background: radial-gradient(ellipse 50% 400px, #80FFDB 50%, #5390D9 80%, #5E60CE);  */
-    background: radial-gradient(ellipse 50% 400px, #80FFDB 50%, #5390D9 80%, #5E60CE); 
-     opacity: 0.9;
+   /* background: radial-gradient(ellipse 50% 400px, #80FFDB 50%, #5390D9 80%, #5E60CE); 
+    opacity: 0.9; 
+    padding-bottom: 4px;
 }
+*/
 /* #second-container{
    position: relative;
    left: 20rem;
